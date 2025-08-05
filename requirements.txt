@@ -1,2 +1,6 @@
-python-telegram-bot
-google-generativeai
+python-telegram-bot==22.3
+openai
+thefuzz
+python-levenshtein
+langdetect
+Flask
