@@ -1,1 +1,5 @@
 Jeff's Services Bot API.txt
+.env
+*.db
+__pycache__/
+*.pyc

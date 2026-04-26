@@ -1,5 +1,5 @@
 python-telegram-bot==22.3
-openai
+groq
 thefuzz
 python-levenshtein
 langdetect
